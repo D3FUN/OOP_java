@@ -1,6 +1,3 @@
-package OOP_java.lab_1;
-
-import OOP_java1.oop_lectures.LAB_1.MusicalInstrument;
 
 public class StringInstrument extends MusicalInstrument {
     private int stringCount;

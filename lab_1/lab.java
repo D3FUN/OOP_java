@@ -1,7 +1,3 @@
-package OOP_java.lab_1;
-
-import OOP_java.lab_1.Violin;
-
 public class lab {
     public static void main(String[] args) {
         Violin violin = new Violin(

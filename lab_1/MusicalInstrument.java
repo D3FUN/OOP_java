@@ -1,4 +1,3 @@
-package OOP_java.lab_1;
 public class MusicalInstrument {
     private String name;
     private String manufacturer;
