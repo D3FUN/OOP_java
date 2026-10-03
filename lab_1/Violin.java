@@ -1,5 +1,3 @@
-package OOP_java.lab_1;
-
 public class Violin extends StringInstrument {
     private String bowMaterial;
     private double sizeInCentimeters;
